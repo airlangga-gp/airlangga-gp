@@ -16,8 +16,6 @@
 
 I am an aspiring DevOps engineer with a strong interest in Linux systems, cloud infrastructure, and automation. My goal is to build a career around designing and maintaining infrastructure that is reliable, scalable, and easy to reason about.
 
-I approach problems with an operations mindset: identify repetitive or error-prone manual work, then replace it with automated, version-controlled, and repeatable processes. I believe good infrastructure should be invisible when it works and easy to diagnose when it doesn't.
-
 I am currently building hands-on experience with container orchestration, continuous integration and delivery pipelines, and Infrastructure as Code, while continuing to strengthen my foundation in Linux administration and shell scripting.
 
 <br/>
