@@ -1,15 +1,86 @@
-<h1>Hi 👋, I'm Airlangga Gian Purnama </h1>
-<p>An aspiring DevOps enthusiast exploring Linux, infrastructure, and automation.</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/airlanggagianp/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.facebook.com/Airlangga Purnama" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
-<a target="_blank" href="https://www.instagram.com/lnggagp" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+<div align="center">
+
+# Airlangga Gian Purnama
+
+### Aspiring DevOps Engineer · Linux · Cloud Infrastructure · Automation
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/airlanggagianp/)
+[![Instagram](https://img.shields.io/badge/-Instagram-0f172a?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/lnggagp)
+[![Facebook](https://img.shields.io/badge/-Facebook-0f172a?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/Airlangga.Purnama)
+
+</div>
+
+<br/>
+
+## About Me
+
+I am an aspiring DevOps engineer with a strong interest in Linux systems, cloud infrastructure, and automation. My goal is to build a career around designing and maintaining infrastructure that is reliable, scalable, and easy to reason about.
+
+I approach problems with an operations mindset: identify repetitive or error-prone manual work, then replace it with automated, version-controlled, and repeatable processes. I believe good infrastructure should be invisible when it works and easy to diagnose when it doesn't.
+
+I am currently building hands-on experience with container orchestration, continuous integration and delivery pipelines, and Infrastructure as Code, while continuing to strengthen my foundation in Linux administration and shell scripting.
+
+<br/>
+
+## What I Value
+
+- **Reliability over cleverness.** Simple, well-understood systems are easier to operate and troubleshoot than clever ones.
+- **Automation as documentation.** A well-written script or pipeline describes a process more accurately than a wiki page ever could.
+- **Continuous learning.** Infrastructure and tooling evolve quickly, and staying current is part of the job, not an afterthought.
+- **Collaboration.** DevOps works best when development and operations share context, not just handoffs.
+
+<br/>
+
+## Focus Areas
+
+| Area | Details |
+|---|---|
+| Currently learning | Kubernetes, CI/CD pipelines, Infrastructure as Code |
+| Comfortable with | Linux system administration, shell scripting, Git version control |
+| Exploring | Cloud platforms (AWS), containerization with Docker, deployment automation |
+| Long-term interest | Site reliability engineering, observability, and platform engineering |
+
+<br/>
+
+## Tech Stack
+
+**Operating Systems & Shell**
+
+<img src="https://skillicons.dev/icons?i=linux,bash&theme=dark" />
+
+**Containers & Orchestration**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" />
+
+**CI/CD & Version Control**
+
+<img src="https://skillicons.dev/icons?i=jenkins,git,github&theme=dark" />
+
+**Cloud & Programming**
+
+<img src="https://skillicons.dev/icons?i=aws,python&theme=dark" />
+
+<br/>
+
+## Currently Working On
+
+- Strengthening my understanding of Kubernetes fundamentals: pods, deployments, services, and networking.
+- Building small CI/CD pipelines to practice automated testing and deployment workflows.
+- Writing Infrastructure as Code to provision and manage cloud resources reproducibly.
+- Documenting what I learn so it can be revisited and shared with others.
+
+<br/>
+
+## Goals
+
+My near-term goal is to contribute to a team as a junior DevOps or infrastructure engineer, where I can apply what I have learned while continuing to grow under the guidance of more experienced engineers. Longer term, I want to specialize in reliability and platform engineering, helping teams ship software with confidence.
+
+<br/>
+
+## Let's Connect
+
+I am always open to conversations about DevOps practices, infrastructure design, and automation. Whether you want to collaborate, share knowledge, or just talk shop, feel free to reach out through any of the platforms above.
+
+<div align="center">
+<sub>© Airlangga Gian Purnama</sub>
+</div>
